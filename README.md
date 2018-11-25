@@ -10,5 +10,7 @@ Material de referência usado:
 
 
 https://www.w3.org/TR/1998/REC-DOM-Level-1-19981001/introduction.html
+
 https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
+
 https://css-tricks.com/dom/
