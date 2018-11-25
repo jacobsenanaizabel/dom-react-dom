@@ -1,4 +1,4 @@
-# dom-react-dom
+# DOM e React DOM 
 Apresentação para o front-end study sobre DOM e React DOM 
 
 Link do power point:
